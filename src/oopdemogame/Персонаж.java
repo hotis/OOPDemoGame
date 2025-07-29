@@ -99,6 +99,7 @@ public abstract class Персонаж implements Атакующий, Имеющ
      *
      * @return true, если здоровье > 0, иначе false
      */
+    @Override
     public boolean жив() {
         return здоровье > 0;
     }
