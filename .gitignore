@@ -1,4 +1,3 @@
 .qodo
 .vscode
-bin
-lib
+target
