@@ -10,7 +10,7 @@ public abstract class Персонаж implements Атакующий, Имеющ
     protected int здоровье;
     protected int урон;
     protected double шансУльты;
-    protected double шансПромаха; // Новое свойство
+    protected double шансПромаха;
     protected АтакаСтратегия атака;
     
     /**
